@@ -16,7 +16,7 @@
 
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>jess</h1>
     <nav>
       <a href="#photo">Photo</a>
       <a href="#video">Film</a>
@@ -36,8 +36,8 @@
   </section>
 
   <footer id="contact">
-    <p>Email: yourname@email.com</p>
-    <p>Instagram: @yourhandle</p>
+    <p>Email: jz041813@gmail.com</p>
+    <p>Instagram: @falyerta</p>
   </footer>
 
   <script src="script.js"></script>
