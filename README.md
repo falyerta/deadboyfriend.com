@@ -1,4 +1,4 @@
-# deadboyfriend.com
+# deadboyfriend.github.io
 * {
   margin: 0;
   padding: 0;
